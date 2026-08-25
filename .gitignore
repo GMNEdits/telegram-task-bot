@@ -1,0 +1,5 @@
+node_modules/
+.env
+AGENTS.md
+npm-debug.log
+bot.log
